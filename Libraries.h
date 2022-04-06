@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <sstream>
+#include <vector>
+#include <string>
+#include <conio.h>
+#include <algorithm>
+#include <iomanip>
+#include <ctime>
+#include <Windows.h>
